@@ -1,0 +1,13 @@
+Realizado Por Diego Guzhñay 
+
+Pregunta: ¿Qué es Zustand y cuál es su propósito en el desarrollo de aplicaciones React?
+Respuesta:
+A. Una biblioteca de gestión de estado para React que se enfoca en la simplicidad y el rendimiento.
+
+Pregunta: ¿Cuáles son los requisitos necesarios para comenzar a trabajar con Zustand?
+Respuesta:
+B. Conocimiento básico de React y TypeScript.
+
+Pregunta: ¿Cuáles son las principales características y ventajas de usar Zustand para la gestión del estado en aplicaciones React, en términos de rendimiento, sintaxis y facilidad de uso?
+Respuesta:
+B. Mejora del rendimiento al evitar la re-rendización innecesaria de componentes.
